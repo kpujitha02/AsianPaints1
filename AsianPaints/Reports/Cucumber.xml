@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="336.671" tests="9" skipped="0" failures="0" errors="0">
+<testcase classname="Balcony Design" name="Validate user is able to click on read all and explore services" time="38.367">
+<system-out><![CDATA[
+Given Browser is open and url is navigated..................................passed
+When The user clicks on beautiful homes.....................................passed
+And The user is able to hover on Design Ideas...............................passed
+And The user clicks on balcony designs......................................passed
+And The user clicks on get free estimate button.............................passed
+Given The user is on large balcony page.....................................passed
+Then The user clicks on Read more link......................................passed
+And The user scrolls down till explore......................................passed
+And The user clicks on explore now on services..............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Beautiful homes" name="validate user is able to estimate kitchen design ideas" time="35.297">
+<system-out><![CDATA[
+Given Browser is open and url is navigated..................................passed
+When The user clicks on beautiful homes.....................................passed
+And The user is able to hover on Design Ideas...............................passed
+And The user is able to click on home desgin  ideas.........................passed
+And The user is able to click on image......................................passed
+And Scroll till get estimate................................................passed
+And click on get estimate...................................................passed
+Then Select the nearest dimension of your kitchen will be displayed.........passed
+]]></system-out>
+</testcase>
+<testcase classname="DesignGuide" name="Validate user is able to navigate design guide and see the living room design guide" time="35.762">
+<system-out><![CDATA[
+Given Browser is open and url is navigated..................................passed
+When The user clicks on beautiful homes.....................................passed
+And The user hover on button................................................passed
+And The user clicks on Design guide.........................................passed
+And Scroll up to Read more..................................................passed
+And click on read more......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="login" name="User should able to login" time="50.597">
+<system-out><![CDATA[
+Given Browser is open and url is navigated..................................passed
+And Click on Login icon.....................................................passed
+When Enter Phonenumber of ten Digits........................................passed
+And Click on proceed........................................................passed
+And Validate the login......................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Store locator" name="Validate user is able to get store locations from stores - #1.1" time="33.31">
+<system-out><![CDATA[
+Given Browser is open and url is navigated..................................passed
+When The user clicks on beautiful homes.....................................passed
+And The user hover on button................................................passed
+And The user selects store locator..........................................passed
+And The user scrolls and selects 0 from dropdown............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Store locator" name="Validate user is able to get store locations from stores - #1.2" time="43.17">
+<system-out><![CDATA[
+Given Browser is open and url is navigated..................................passed
+When The user clicks on beautiful homes.....................................passed
+And The user hover on button................................................passed
+And The user selects store locator..........................................passed
+And The user scrolls and selects 1 from dropdown............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Store locator" name="Validate user is able to get store locations from stores - #1.3" time="32.011">
+<system-out><![CDATA[
+Given Browser is open and url is navigated..................................passed
+When The user clicks on beautiful homes.....................................passed
+And The user hover on button................................................passed
+And The user selects store locator..........................................passed
+And The user scrolls and selects 2 from dropdown............................passed
+]]></system-out>
+</testcase>
+<testcase classname="TileDesign" name="Validate the user is able to get store" time="37.553">
+<system-out><![CDATA[
+Given Browser is open and url is navigated..................................passed
+When The user clicks on beautiful homes.....................................passed
+And The user is able to hover on Design Ideas...............................passed
+And The user  clicks on tile design.........................................passed
+And The user should scroll till traditional white and black.................passed
+And The user  clicks on get free estimate...................................passed
+And The user  clicks on stores..............................................passed
+And The user clicks on find a store.........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Wardrobe Design" name="Validate the user is able to see Wardrobe with a combination of PU gloss and fluted gloss" time="30.361">
+<system-out><![CDATA[
+Given Browser is open and url is navigated..................................passed
+When The user clicks on beautiful homes.....................................passed
+And The user is able to hover on Design Ideas...............................passed
+And The user is able to click on Wardrobe design............................passed
+And The user is able to click on modern.....................................passed
+And The user is able to scroll wardrobe with combination....................passed
+Then Wardrobe with a combination of PU gloss finish and fluted glass shutters page will be dispalyed.passed
+]]></system-out>
+</testcase>
+</testsuite>

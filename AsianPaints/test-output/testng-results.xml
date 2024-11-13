@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser is open and url is navigated]]>
+    </line>
+    <line>
+      <![CDATA[User sucessfully clicked on beautiful homes...]]>
+    </line>
+    <line>
+      <![CDATA[User hovered on design ideas...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully clicked on balcony designs ...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully clicked on free estimate button...]]>
+    </line>
+    <line>
+      <![CDATA[landed on large balcony......]]>
+    </line>
+    <line>
+      <![CDATA[User successfully clicked on read more link....]]>
+    </line>
+    <line>
+      <![CDATA[User sucessfully scrolled till explore...]]>
+    </line>
+    <line>
+      <![CDATA[User Sucessfully explored all the services..]]>
+    </line>
+    <line>
+      <![CDATA[Browser is open and url is navigated]]>
+    </line>
+    <line>
+      <![CDATA[User sucessfully clicked on beautiful homes...]]>
+    </line>
+    <line>
+      <![CDATA[User hovered on design ideas...]]>
+    </line>
+    <line>
+      <![CDATA[User  sucessfully clicked on home desgin ideas...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully clicked on image..]]>
+    </line>
+    <line>
+      <![CDATA[User successfully scrolled till estimate...]]>
+    </line>
+    <line>
+      <![CDATA[User got final output which is get estimate....]]>
+    </line>
+    <line>
+      <![CDATA[Browser is open and url is navigated]]>
+    </line>
+    <line>
+      <![CDATA[User sucessfully clicked on beautiful homes...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully hoverd on button ....]]>
+    </line>
+    <line>
+      <![CDATA[User successfully clicked on design guide..]]>
+    </line>
+    <line>
+      <![CDATA[Successfuly scrolled upto read more...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully clicked on read more.... ]]>
+    </line>
+    <line>
+      <![CDATA[Browser is open and url is navigated]]>
+    </line>
+    <line>
+      <![CDATA[Successfully Entered the number]]>
+    </line>
+    <line>
+      <![CDATA[Successfully logged in]]>
+    </line>
+    <line>
+      <![CDATA[Successfully logged in]]>
+    </line>
+    <line>
+      <![CDATA[Browser is open and url is navigated]]>
+    </line>
+    <line>
+      <![CDATA[User sucessfully clicked on beautiful homes...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully hoverd on button ....]]>
+    </line>
+    <line>
+      <![CDATA[User successfully selected locations...]]>
+    </line>
+    <line>
+      <![CDATA[User Successfully scrolled till dropdown....]]>
+    </line>
+    <line>
+      <![CDATA[Browser is open and url is navigated]]>
+    </line>
+    <line>
+      <![CDATA[User sucessfully clicked on beautiful homes...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully hoverd on button ....]]>
+    </line>
+    <line>
+      <![CDATA[User successfully selected locations...]]>
+    </line>
+    <line>
+      <![CDATA[User Successfully scrolled till dropdown....]]>
+    </line>
+    <line>
+      <![CDATA[Browser is open and url is navigated]]>
+    </line>
+    <line>
+      <![CDATA[User sucessfully clicked on beautiful homes...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully hoverd on button ....]]>
+    </line>
+    <line>
+      <![CDATA[User successfully selected locations...]]>
+    </line>
+    <line>
+      <![CDATA[User Successfully scrolled till dropdown....]]>
+    </line>
+    <line>
+      <![CDATA[Browser is open and url is navigated]]>
+    </line>
+    <line>
+      <![CDATA[User sucessfully clicked on beautiful homes...]]>
+    </line>
+    <line>
+      <![CDATA[User hovered on design ideas...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully  clicked on tile design]]>
+    </line>
+    <line>
+      <![CDATA[User successfully scrolled till traditional white and balck ....]]>
+    </line>
+    <line>
+      <![CDATA[User successfully clicked on free estimate button...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully clicked on stores...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully find the store...]]>
+    </line>
+    <line>
+      <![CDATA[Browser is open and url is navigated]]>
+    </line>
+    <line>
+      <![CDATA[User sucessfully clicked on beautiful homes...]]>
+    </line>
+    <line>
+      <![CDATA[User hovered on design ideas...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully clicked on wardrobe design...]]>
+    </line>
+    <line>
+      <![CDATA[User successfully clicked on modern button ....]]>
+    </line>
+    <line>
+      <![CDATA[User successfully scrolled till wardrobe with combination....]]>
+    </line>
+    <line>
+      <![CDATA[User successfully seen the combination of PU gloss finish and fluted glass shutters page will be dispalyed ...]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-13T17:18:05 IST" name="Default suite" finished-at="2024-11-13T17:23:42 IST" duration-ms="337448">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@198b6731]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-11-13T17:18:05 IST" name="Default test" finished-at="2024-11-13T17:23:42 IST" duration-ms="337448">
+      <class name="com.runners.CucumberRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:com.runners.CucumberRunner@198b6731]" started-at="2024-11-13T17:18:05 IST" name="setUpClass" finished-at="2024-11-13T17:18:05 IST" duration-ms="467" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@8ee03f5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@198b6731]" started-at="2024-11-13T17:18:05 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T17:18:44 IST" duration-ms="38453" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user is able to click on read all and explore services"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Balcony Design"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is open and url is navigated]]>
+            </line>
+            <line>
+              <![CDATA[User sucessfully clicked on beautiful homes...]]>
+            </line>
+            <line>
+              <![CDATA[User hovered on design ideas...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully clicked on balcony designs ...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully clicked on free estimate button...]]>
+            </line>
+            <line>
+              <![CDATA[landed on large balcony......]]>
+            </line>
+            <line>
+              <![CDATA[User successfully clicked on read more link....]]>
+            </line>
+            <line>
+              <![CDATA[User sucessfully scrolled till explore...]]>
+            </line>
+            <line>
+              <![CDATA[User Sucessfully explored all the services..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@198b6731]" started-at="2024-11-13T17:18:44 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T17:19:19 IST" duration-ms="35311" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["validate user is able to estimate kitchen design ideas"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Beautiful homes"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is open and url is navigated]]>
+            </line>
+            <line>
+              <![CDATA[User sucessfully clicked on beautiful homes...]]>
+            </line>
+            <line>
+              <![CDATA[User hovered on design ideas...]]>
+            </line>
+            <line>
+              <![CDATA[User  sucessfully clicked on home desgin ideas...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully clicked on image..]]>
+            </line>
+            <line>
+              <![CDATA[User successfully scrolled till estimate...]]>
+            </line>
+            <line>
+              <![CDATA[User got final output which is get estimate....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@198b6731]" started-at="2024-11-13T17:19:19 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T17:19:55 IST" duration-ms="35769" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user is able to navigate design guide and see the living room design guide"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["DesignGuide"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is open and url is navigated]]>
+            </line>
+            <line>
+              <![CDATA[User sucessfully clicked on beautiful homes...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully hoverd on button ....]]>
+            </line>
+            <line>
+              <![CDATA[User successfully clicked on design guide..]]>
+            </line>
+            <line>
+              <![CDATA[Successfuly scrolled upto read more...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully clicked on read more.... ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@198b6731]" started-at="2024-11-13T17:19:55 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T17:20:45 IST" duration-ms="50610" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["User should able to login"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is open and url is navigated]]>
+            </line>
+            <line>
+              <![CDATA[Successfully Entered the number]]>
+            </line>
+            <line>
+              <![CDATA[Successfully logged in]]>
+            </line>
+            <line>
+              <![CDATA[Successfully logged in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@198b6731]" started-at="2024-11-13T17:20:45 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T17:21:19 IST" duration-ms="33317" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user is able to get store locations from stores"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Store locator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is open and url is navigated]]>
+            </line>
+            <line>
+              <![CDATA[User sucessfully clicked on beautiful homes...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully hoverd on button ....]]>
+            </line>
+            <line>
+              <![CDATA[User successfully selected locations...]]>
+            </line>
+            <line>
+              <![CDATA[User Successfully scrolled till dropdown....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@198b6731]" started-at="2024-11-13T17:21:19 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T17:22:02 IST" duration-ms="43181" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user is able to get store locations from stores"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Store locator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is open and url is navigated]]>
+            </line>
+            <line>
+              <![CDATA[User sucessfully clicked on beautiful homes...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully hoverd on button ....]]>
+            </line>
+            <line>
+              <![CDATA[User successfully selected locations...]]>
+            </line>
+            <line>
+              <![CDATA[User Successfully scrolled till dropdown....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@198b6731]" started-at="2024-11-13T17:22:02 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T17:22:34 IST" duration-ms="32016" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate user is able to get store locations from stores"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Store locator"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is open and url is navigated]]>
+            </line>
+            <line>
+              <![CDATA[User sucessfully clicked on beautiful homes...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully hoverd on button ....]]>
+            </line>
+            <line>
+              <![CDATA[User successfully selected locations...]]>
+            </line>
+            <line>
+              <![CDATA[User Successfully scrolled till dropdown....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@198b6731]" started-at="2024-11-13T17:22:34 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T17:23:11 IST" duration-ms="37562" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate the user is able to get store"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["TileDesign"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is open and url is navigated]]>
+            </line>
+            <line>
+              <![CDATA[User sucessfully clicked on beautiful homes...]]>
+            </line>
+            <line>
+              <![CDATA[User hovered on design ideas...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully  clicked on tile design]]>
+            </line>
+            <line>
+              <![CDATA[User successfully scrolled till traditional white and balck ....]]>
+            </line>
+            <line>
+              <![CDATA[User successfully clicked on free estimate button...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully clicked on stores...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully find the store...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.runners.CucumberRunner@198b6731]" started-at="2024-11-13T17:23:11 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-11-13T17:23:42 IST" duration-ms="30374" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Validate the user is able to see Wardrobe with a combination of PU gloss and fluted gloss"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Wardrobe Design"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Browser is open and url is navigated]]>
+            </line>
+            <line>
+              <![CDATA[User sucessfully clicked on beautiful homes...]]>
+            </line>
+            <line>
+              <![CDATA[User hovered on design ideas...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully clicked on wardrobe design...]]>
+            </line>
+            <line>
+              <![CDATA[User successfully clicked on modern button ....]]>
+            </line>
+            <line>
+              <![CDATA[User successfully scrolled till wardrobe with combination....]]>
+            </line>
+            <line>
+              <![CDATA[User successfully seen the combination of PU gloss finish and fluted glass shutters page will be dispalyed ...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:com.runners.CucumberRunner@198b6731]" started-at="2024-11-13T17:23:42 IST" name="tearDownClass" finished-at="2024-11-13T17:23:42 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.runners.CucumberRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
